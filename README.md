@@ -12,6 +12,7 @@
 | Step | Leason    | Sources                                           |
 | ---- | --------- | ------------------------------------------------- |
 | 1    | **HTML5** | https://developer.mozilla.org/en-US/docs/Web/HTML |
+| 2    | **CSS3**  | https://developer.mozilla.org/en-US/docs/Web/CSS  |
 
 ## What Next
 
